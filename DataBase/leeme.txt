@@ -1,0 +1,3 @@
+En esta carpeta se encuentra la base de datos
+el diagrama del model ER que se abre usando el workbench
+y el archivo del script
